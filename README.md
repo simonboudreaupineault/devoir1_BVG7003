@@ -97,7 +97,6 @@ devoir1_BVG7003/
 ├── renv.lock                           # versions exactes des paquets R
 ├── .Rprofile                           # active renv à l'ouverture du projet
 ├── devoir1.Rproj                       # projet RStudio (définit la racine)
-├── CLAUDE.md                           # consignes données à l'assistant IA
 └── README.md
 ```
 
@@ -105,7 +104,7 @@ devoir1_BVG7003/
 
 ![Expression de REM16 et FT1 selon le sexe](figures/REM16_FT1_combined_by_sex.png)
 
-**Figure combinée.** Niveau d'expression normalisé de REM16 (gauche) et de FT1 (droite) chez les plantes femelles (XX, orange, n = 68) et mâles (XY, bleu, n = 69). Chaque point correspond à une plante; les boîtes indiquent la médiane et l'écart interquartile. Les deux panneaux partagent la même échelle Y. L'unité de normalisation des données fournies n'est pas connue. La plante `011_XX` est exclue des deux gènes, car sa valeur de FT1 est manquante.
+**Figure combinée.** Niveau d'expression normalisé de REM16 (gauche) et de FT1 (droite) chez les plantes femelles (XX, orange, n = 68) et mâles (XY, bleu, n = 69). Chaque point correspond à une plante; les boîtes indiquent la médiane et l'écart interquartile. Les deux panneaux partagent la même échelle Y. La plante `011_XX` est exclue des deux gènes, car sa valeur de FT1 est manquante.
 
 **Interprétation.**
 
